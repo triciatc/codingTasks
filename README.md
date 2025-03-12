@@ -19,8 +19,6 @@ py -m tkinter
 ## Usage
 
 When running the python code, a window will pop up. You can input your total budget (£) and total monthly expenses (£). It will then show you, in a new window, how many months your budget will last you.
-
 ![alt text](https://github.com/triciatc/codingTasks/blob/main/Screenshot1.jpg?raw=true)
-
 ## Credits
 - Patricia Castelo
